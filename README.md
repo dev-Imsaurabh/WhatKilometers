@@ -8,10 +8,10 @@
 
 
 <p align="center">
-    <a href="https://travis-ci.org/steverichey/google-play-badge-svg">
+    <a href="https://play.google.com/store/apps/details?id=com.mac.whatkilometers">
         <img src="https://travis-ci.org/steverichey/google-play-badge-svg.svg?branch=master" alt="Build status">
     </a>
-    <a href="./license.md">
+    <a href="https://github.com/dev-iamsaurabh/WhatKilometers/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License: MIT">
     </a>
 </p>
